@@ -7,6 +7,7 @@ export default function Enquiry() {
     <div>
 
 <Header/>
+this is Enquiry 
 
     </div>
   )
