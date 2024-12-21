@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head ul li{
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+.head ul{
+    line-height: 4;
+    background-color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+ 
+    gap: 20px;
+    justify-content: space-between;
+
+}
+
+.head ul li a{
+    text-decoration: none;
+    color: white;
+}
+
